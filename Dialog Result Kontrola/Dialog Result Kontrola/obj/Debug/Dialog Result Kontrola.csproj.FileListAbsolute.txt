@@ -1,0 +1,11 @@
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\bin\Debug\Dialog Result Kontrola.exe.config
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\bin\Debug\Dialog Result Kontrola.exe
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\bin\Debug\Dialog Result Kontrola.pdb
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog_Result_Kontrola.Form1.resources
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog_Result_Kontrola.Properties.Resources.resources
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.csproj.GenerateResource.cache
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.exe
+C:\Users\LaPeM\source\repos\Dialog Result Kontrola\Dialog Result Kontrola\obj\Debug\Dialog Result Kontrola.pdb
